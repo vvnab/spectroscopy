@@ -1,0 +1,51 @@
+- name: Водород
+  sign: H
+  wavelengths: [410.1735, 434.0465, 486.1327, 656.2725]
+
+- name: Гелий
+  sign: He
+  wavelengths: [447.1477, 492.1929, 587.5618, 667.8149, 706.5188]
+
+- name: Кальций
+  sign: Ca
+  wavelengths: [393.3666, 396.8468, 422.6728]
+
+- name: Ртуть
+  sign: Hg
+  wavelengths: [404.6561, 435.8343, 546.0740, 576.9596, 579.0654]
+
+- name: Железо
+  sign: Fe
+  wavelengths: [430.7905, 438.3547, 468.02983, 527.03602]
+
+- name: Кадмий
+  sign: Cd
+  wavelengths: [441.463, 479.9914, 508.5824, 643.84696]
+
+- name: Стронций
+  sign: Sr
+  wavelengths: [460.7331]
+
+- name: Таллий
+  sign: Tl
+  wavelengths: [535.046]
+
+- name: Натрий
+  sign: Na
+  wavelengths: [588.9953, 589.5923]
+
+- name: Литий
+  sign: Li
+  wavelengths: [610.3642, 670.7844]
+
+- name: Цинк
+  sign: Zn
+  wavelengths: [636.2347]
+
+- name: Кислород
+  sign: O
+  wavelengths: [686.72, 760.82]
+
+- name: Калий
+  sign: K
+  wavelengths: [766.4907, 769.8979]
